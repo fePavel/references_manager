@@ -164,7 +164,7 @@ references_arr.append(
               "Поляризация излучения OH",
               "ЖЭТФ 56, 614-618", 1969,
               Reference([Author("D", "A", "Varshalovich")],
-                        "Polarization of the OH Radio-emission. JETP, 29 (2), 337", 1969)))
+                        "Polarization of the OH Radio-emission."," JETP, 29 (2), 337", 1969)))
 
 # 22
 references_arr.append(
@@ -274,7 +274,7 @@ references_arr.append(
               "Астрономический журнал 50, 481-490", 1973,
               Reference([Author("Burdyuzha", "V.", "V."), Author("Varshalovich", "D.", "A.")],
                         "Infrared pumping of maser OH sources associated with H II regions",
-                        "Soviet Astronomy, Vol. 17, p.308 (1973)")))
+                        "Soviet Astronomy, Vol. 17, p.308 (1973)", 1973)))
 
 # 36
 references_arr.append(
@@ -342,52 +342,52 @@ references_arr.append(
               "Письма в Астрономический журнал 2, 574-576", 1976,
               Reference([Author("Varshalovich", "D.", "A."), Author("Khersonskii", "V.", "K.")],
                         r"The role of the HD molecule in the development of primordial condensations",
-                        r"Soviet Astronomy Letters, vol. 2, Nov.-Dec. 1976, p. 227-228")))
+                        r"Soviet Astronomy Letters, vol. 2, Nov.-Dec. 1976, p. 227-228", 1976)))
 
 # 46
 references_arr.append(
     Reference([Author("В", "К", "Херсонский"), Author("Д", "А", "Варшалович")],
               r"Радиоизлучение межзвездной молекулы NS",
-              r"Астрономический журнал 54, 915-919 (1977)",
+              r"Астрономический журнал 54, 915-919 (1977)", 1977,
               Reference([Author("Varshalovich", "D.", "A."), Author("Khersonskii", "V.", "K."), Author("Chernyi", "G.", "F.")],
                         r"Radio emission of the interstellar NS molecule",
-                        r"Soviet Astronomy, vol. 21, July-Aug., p. 517-518")))
+                        r"Soviet Astronomy, vol. 21, July-Aug., p. 517-518", 1977)))
 
 # 47
 references_arr.append(
     Reference([Author("Д", "А", "Варшалович"), Author("В", "К", "Херсонский")],
               r"Коллизионное возбуждение межзвездных молекул",
-              r"Астрономический журнал 55, 328-333 (1978)",
+              r"Астрономический журнал 55, 328-333 (1978)", 1978,
               Reference([Author("Varshalovich", "D.", "A."), Author("Khersonskii", "V.", "K.")],
                         r"Collisional excitation of interstellar molecules",
-                        r"Astronomy Letters, vol. 22, Mar.-Apr. 1978, p. 192-194")))
+                        r"Astronomy Letters, vol. 22, Mar.-Apr. 1978, p. 192-194", 1978)))
 
 # 48
 references_arr.append(
     Reference([Author("Д", "А", "Варшалович"), Author("В", "К", "Херсонский")],
               r"Искажение спектра реликтового излучения водородной линией $lambda$=21 см в эпоху Z = 150-15",
-              r"Письма в Астрономический журнал 3, 291-294 (1977)",
+              r"Письма в Астрономический журнал 3, 291-294", 1977,
               Reference([Author("Varshalovich", "D.", "A."), Author("Khersonskii", "V.", "K.")],
                         r"Distortion of the primordial radiation spectrum by the 21-cm hydrogen line at epochs $z$ = 150-15",
-                        r"Soviet Astronomy Letters, vol. 3, July-Aug. 1977, p. 155-156")))
+                        r"Soviet Astronomy Letters, vol. 3, July-Aug. 1977, p. 155-156", 1977)))
 
 # 49
 references_arr.append(
     Reference([Author("В", "К", "Херсонский"), Author("Д", "А", "Варшалович")],
               r"Инфракрасное излучение межзвездных молекул HD",
-              r"Письма в Астрономический журнал 3, 506-509 (1977)",
+              r"Письма в Астрономический журнал 3, 506-509", 1977,
               Reference([Author("Khersonskii", "V.", "K."), Author("Varshalovich", "D.", "A.")],
                         r"Infrared emission of interstellar HD molecules",
-                        r"Soviet Astronomy Letters, vol. 3, Nov.-Dec. 1977, p. 277-278")))
+                        r"Soviet Astronomy Letters, vol. 3, Nov.-Dec. 1977, p. 277-278", 1977)))
 
 # 50
 references_arr.append(
     Reference([Author("Д", "А", "Варшалович"), Author("В", "К", "Херсонский")],
               r"Один из механизмов создания инверсной населенности уровней линейных молекул",
-              r"Астрономический журнал 55, 328-333 (1978)",
+              r"Астрономический журнал 55, 328-333",1978,
               Reference([Author("Varshalovich", "D.", "A."), Author("Khersonskii", "V.", "K.")],
                         r"One mechanism for the creation of a population inversion in the levels of linear molecules",
-                        r"Soviet Astronomy, vol. 22, Mar.-Apr. 1978, p. 192-194")))
+                        r"Soviet Astronomy, vol. 22, Mar.-Apr. 1978, p. 192-194", 1978)))
 # 51
 references_arr.append(
     Reference([Author("В", "К", "Херсонский"), Author("Д", "А", "Варшалович")],
@@ -395,7 +395,7 @@ references_arr.append(
               "Астрономический журнал 55, 487-489", 1978,
               Reference([Author("Khersonskii", "V.", "K."), Author("Varshalovich", "D.", "A.")],
                         "Cooling of primordial matter by molecular hydrogen",
-                        "Soviet Astronomy, vol. 22, May-June 1978, p. 279-280")))
+                        "Soviet Astronomy, vol. 22, May-June 1978, p. 279-280", 1978)))
 
 # 52
 references_arr.append(
@@ -404,7 +404,7 @@ references_arr.append(
               "Астрономический журнал 55, 1169-1175", 1978,
               Reference([Author("Varshalovich", "D.", "A."), Author("Khersonskii", "V.", "K.")],
                         "One mechanism for the creation of a population inversion in the levels of linear molecules",
-                        "Soviet Astronomy, vol. 22, Mar.-Apr. 1978, p. 192-194")))
+                        "Soviet Astronomy, vol. 22, Mar.-Apr. 1978, p. 192-194", 1978)))
 
 # 53
 references_arr.append(
@@ -413,7 +413,7 @@ references_arr.append(
               "Письма в Астрономический журнал 4, 115-118", 1978,
               Reference([Author("Varshalovich", "D.", "A."), Author("Levshakov", "S.", "A.")],
                         "Molecular hydrogen lines in quasar spectra",
-                        "Soviet Astronomy Letters, vol. 4, Mar.-Apr. 1978, p. 61-62")))
+                        "Soviet Astronomy Letters, vol. 4, Mar.-Apr. 1978, p. 61-62", 1978)))
 
 # 54
 references_arr.append(
@@ -422,7 +422,7 @@ references_arr.append(
               "Астрономический журнал 56, 60-66", 1979,
               Reference([Author("Everskaia", "I.", "L."), Author("Khersonskii", "V.", "K."), Author("Varshalovich", "D.", "A.")],
                         "Kinetic temperature and density of the interstellar medium estimated from molecular line intensities",
-                        "Astronomicheskii Zhurnal, Vol. 56, p.60")))
+                        "Astronomicheskii Zhurnal, Vol. 56, p.60", 1979)))
 
 # 55
 references_arr.append(
@@ -431,28 +431,28 @@ references_arr.append(
               "Письма в Астрономический журнал 5, 371-374", 1979,
               Reference([Author("Varshalovich", "D.", "A."), Author("Levshakov", "S.", "A.")],
                         r"H$_2$ and CO absorption lines in the spectrum of the quasar PHL 957",
-                        r"Soviet Astronomy Letters, vol. 5, July-Aug. 1979, p. 199-201")))
+                        r"Soviet Astronomy Letters, vol. 5, July-Aug. 1979, p. 199-201", 1979)))
 
 # 56
 references_arr.append(
     Reference([Author("S.", "A", "Левшаков"), Author("Д.", "А", "Варшалович")],
               r"Molecular hydrogen lines in the absorption spectrum of quasar OQ 172",
-              r"Astrophysical Letters 20, 67-73 (1979)"))
+              r"Astrophysical Letters 20, 67-73 (1979)", 1979))
 
 # 57
 references_arr.append(
     Reference([Author("Д", "А", "Варшалович"), Author("В", "К", "Херсонский")],
               r"Связь радиальных кулоновских интегралов и аппарата углового момента",
-              r"Известия Академии Наук СССР. Серия Физическая 43, 2099-2102 (1979)"))
+              r"Известия Академии Наук СССР. Серия Физическая 43, 2099-2102 (1979)", 1979))
 
 # 58
 references_arr.append(
     Reference([Author("И.", "Н", "Бакулина"), Author("Н.", "М", "Блашенков"), Author("Д.", "А", "Варшалович"), Author("Г.", "Я", "Лаврентьев"), Author("Б.", "Н", "Шустов")],
               r"Лабораторное моделирование физико-химических процессов в космических газово-пылевых облаках",
-              r"Астрономический журнал 57, 352-361 (1980)",
+              r"Астрономический журнал 57, 352-361 (1980)", 1980,
               Reference([Author("Bakulina", "I.", "N."), Author("Blashenkov", "N.", "M."), Author("Varshalovich", "D.", "A."), Author("Lavrentev", "G.", "Y."), Author("Shustrov", "B.", "N.")],
                         r"Laboratory Simulation of the Physiochemical Processes in Cosmic Gas / Dust Clouds",
-                        r"Soviet Astronomy, vol. 24, Mar.-Apr. 1980, p. 203-208")))
+                        r"Soviet Astronomy, vol. 24, Mar.-Apr. 1980, p. 203-208", 1980)))
 
 # 59
 references_arr.append(
@@ -1237,11 +1237,192 @@ references_arr.append(
 
 # 161
 references_arr.append(
-    Reference([Author("", "", ""), # ... остальные авторы ...
-               ],
-              # ... название и другие данные ...
-              )
+    Reference([Author("J","G","Greiner"), Author("K","M","Mannheim"),
+               Author("F","A","Aharonian"), Author("M","A","Ajello"),
+               Author("L","G","Balasz"), Author("G","B","Barbiellini"),
+               Author("R","B","Bellazzini"), Author("S","B","Bishop"),
+               Author("G","S","Bisnovatij-Kogan"), Author("S","B","Boggs"),
+               Author("A","B","Bykov"), Author("G","D","DiCocco"),
+               Author("R","D","Diehl"), Author("D","E","Elsässer"),
+               Author("S","F","Foley"), Author("C","F","Fransson"),
+               Author("N","G","Gehrels"), Author("L","H","Hanlon"),
+               Author("D","H","Hartmann"), Author("W","H","Hermsen"),
+               Author("W","H","Hillebrandt"), Author("R","H","Hudec"),
+               Author("A","I","Iyudin"), Author("J","J","Jose"),
+               Author("M","K","Kadler"), Author("G","K","Kanbach"),
+               Author("W","K","Klamra"), Author("J","K","Kiener"),
+               Author("S","K","Klose"), Author("I","K","Kreykenbohm"),
+               Author("L","K","Kuiper"), Author("N","K","Kylafis"),
+               Author("C","L","Labanti"), Author("K","L","Langanke"),
+               Author("N","L","Langer"), Author("S","L","Larsson"),
+               Author("B","L","Leibundgut"), Author("U","L","Laux"),
+               Author("F","L","Longo"), Author("K","M","Maeda"),
+               Author("R","M","Marcinkowski"), Author("M","M","Marisaldi"),
+               Author("B","M","McBreen"), Author("S","M","McBreen"),
+               Author("A","M","Meszaros"), Author("K","N","Nomoto"),
+               Author("M","P","Pearce"), Author("A","P","Peer"),
+               Author("E","P","Pian"), Author("N","P","Prantzos"),
+               Author("G","R","Raffelt"), Author("O","R","Reimer"),
+               Author("W","R","Rhode"), Author("F","R","Ryde"),
+               Author("C","S","Schmidt"), Author("J","S","Silk"),
+               Author("B","M.","Shustov"), Author("A.","S.","Strong"),
+               Author("N.","T.","Tanvir"), Author("F.-K.","T.","Thielemann"),
+               Author("O.","T.","Tibolla"), Author("D.","T.","Tierney"),
+               Author("J.","T.","Trümper"), Author("D.","A.","Varshalovich"),
+               Author("J.","W.","Wilms"), Author("G.","W.","Wrochna"),
+               Author("A.","Z.","Zdziarski"), Author("A.","Z.","Zoglauer")],
+              "GRIPS - Gamma-Ray Imaging, Polarimetry and Spectroscopy",
+              "Experimental Astronomy 34, 551 - 582", 2012,
+              Reference([Author("J.","G.","Greiner"), Author("K.","M.","Mannheim"),
+                         Author("F.","A.","Aharonian"), Author("M.","A.","Ajello"),
+                         Author("L.","G.","Balasz"), Author("G.","B.","Barbiellini"),
+                         # и так далее для всех авторов...
+                        ],
+                        "GRIPS - Gamma-Ray Imaging, Polarimetry and Spectroscopy",
+                        "Experimental Astronomy 34, 551 - 582", 2012))
 )
+
+# 162
+references_arr.append(
+    Reference([Author("A","I","Sobolev"), Author("D","A","Varshalovich")],
+              "Numerical modeling of light-induced drift in a cloud of interstellar gas",
+              "Journal of Physics: Conference Series 572, 012013", 2014)
+)
+
+# 163
+references_arr.append(
+    Reference([Author("А","В","Нестерёнок"), Author("Д","А","Варшалович")],
+              "Накачка мазеров Н$_2$О: эффект квазирезонансной передачи энергии в столкновениях между молекулами Н$_2$ и Н$_2$О",
+              "Письма в Астрономический журнал 40, 473 - 483", 2014)
+)
+
+# 164
+references_arr.append(
+    Reference([Author("S","A","Balashev"), Author("V","V","Klimenko"),
+                Author("A","V","Ivanchik"), Author("D","A","Varshalovich"),
+                Author("P","","Petitjean"), Author("P","","Noterdaeme")],
+              "Molecular hydrogen absorption systems in sloan digital sky survey",
+              "MNRAS 440, 225 - 239", 2014)
+)
+
+# 165
+references_arr.append(
+    Reference([Author("A","I","Sobolev"), Author("A","V","Ivanchik"),
+                Author("D","A","Varshalovich"), Author("S","A","Balashev")],
+              "Measurements of the Cosmic Microwave Background Temperature at high redshift by analysis of CO excitation",
+              "Journal of Physics: Conference Series 661, 012013", 2015)
+)
+
+# 166
+references_arr.append(
+    Reference([Author("V","V","Klimenko"), Author("S","A","Balashev"),
+                Author("A","V","Ivanchik"), Author("D","A","Varshalovich")],
+              "A new estimation of HD/2H$_2$ at high redshift using the spectrum of the quasar J 2123-0050",
+              "Journal of Physics: Conference Series 661, 012005", 2015)
+)
+
+# 167
+references_arr.append(
+    Reference([Author("S","A","Balashev"), Author("E","E","Kholupenko"),
+                Author("J","","Chluba"), Author("A","V","Ivanchik"),
+                Author("D","A","Varshalovich")],
+              "Spectral distortions of the CMB dipole",
+              "The Astrophysical Journal, 810, 131", 2015)
+)
+
+# 168
+references_arr.append(
+    Reference([Author("E","E","Kholupenko"), Author("S","A","Balashev"),
+                Author("A","V","Ivanchik"), Author("D","A","Varshalovich")],
+              "The thermal Sunyaev-Zeldovich effect of primordial recombination radiation",
+              "MNRAS 446, 3593 - 3607", 2015)
+)
+
+# 169
+references_arr.append(
+    Reference([Author("V","V","Klimenko"), Author('S','A','Balashev'),
+                Author('A','V','Ivanchik'), Author('C','','Ledoux'),
+                Author('P','','Noterdaeme'), Author('P','','Petitjean'),
+                Author('R','','Srianand'), Author('D','A','Varshalovich')],
+              "Partial covering of the emission regions of Q 0528-250 by intervening H2 clouds",
+              "MNRAS 448, 280 - 298", 2015)
+)
+
+# 170
+references_arr.append(
+    Reference([Author('А','В','Иванчик'), Author('С','А','Балашев'),
+                Author('Д','А','Варшалович'), Author('В','В','Клименко')],
+              "Молекулярные облака H$_2$/HD в ранней вселенной. Независимый способ оценки концентрации барионов во вселенной",
+              "Астрономический журнал 92, 119 - 138", 2015)
+)
+
+# 171
+references_arr.append(
+    Reference([Author('С','А','Балашев'), Author('П','','Noterdaeme'),
+                Author('В','В','Клименко'), Author('П','','Petitjean'),
+                Author('Р','','Srianand'), Author('C','','Ledoux'),
+                Author('А','В','Иванчик'), Author('Д','А','Варшалович')],
+              "Neutral chlorine and molecular hydrogen at high redshift",
+              "Astronomy & Astrophysics 575, L8", 2015)
+)
+
+# 172
+references_arr.append(
+    Reference([Author('Д','А','Варшалович'), Author('А','В','Карпова')],
+              "Радиальные матричные элементы и аппарат углового момента",
+              "Оптика и Спектроскопия 118, 3 - 7", 2015)
+)
+
+# 173
+references_arr.append(
+    Reference([Author("S","A","Balashev"), Author("E","O","Zavarygin"),
+                Author("A","V","Ivanchik"), Author("K","N","Telikova"),
+                Author("D","A","Varshalovich")],
+              "The primordial deuterium abundance: SubDLA system at $z_{abs}$ = 2.437 towards the QSO J 1444+2919",
+              "MNRAS 458, 2188 - 2198", 2016)
+)
+
+# 174
+references_arr.append(
+    Reference([Author("В","В","Клименко"), Author("С","А","Балашев"),
+                Author("А","В","Иванчик"), Author("Д","А","Варшалович")],
+              "Оценка физических условий в холодной фазе межзвездной среды в суб-DLA системе с $z=$2.06 в спектре квазара J 2123–0050",
+              "Письма в Астрономический журнал 42, 161-188", 2016)
+)
+
+# 175
+references_arr.append(
+    Reference([Author("S","A","Balashev"), Author("P","","Noterdaeme"),
+                Author("H","","Rahmani"), Author("V","V","Klimenko"),
+                Author("C","","Ledoux"), Author("P","","Petitjean"),
+                Author("R","","Srianand"), Author("A","V","Ivanchik"),
+                Author("D","A","Varshalovich")],
+              "CO-dark molecular gas at high redshift: very large H$_2$ content and high pressure in a low-metallicity damped Lyman alpha system",
+              "MNRAS 470, 2890 - 2910", 2017)
+)
+
+# 176
+references_arr.append(
+    Reference([Author("S","A","Balashev"), Author("V","V","Klimenko"),
+                Author("P","","Noterdaeme"), Author("J","K","Krogager"),
+                Author("C","","Ledoux"), Author("A","V","Ivanchik"),
+                Author("D","A","Varshalovich"), Author("P","","Petitjean")],
+              "The cold neutral phase of the interstellar medium in high redshift galaxies",
+              "Journal of Physics: Conference Series 1400, 022030", 2019)
+)
+
+# 177
+references_arr.append(
+    Reference([Author("S","A","Balashev"), Author("V","V","Klimenko"),
+                Author("P","","Noterdaeme"), Author("J","K","Krogager"),
+                Author("D","A","Varshalovich"), Author("A","V","Ivanchik"),
+                Author("P","","Petitjean"), Author("R","","Srianand"),
+                Author("C","","Ledoux")],
+              "X-shooter observations of strong H$_2$-bearing DLAs at high redshift",
+              "MNRAS 490, 2668-2678", 2019)
+)
+
+
 
 
 
